@@ -140,3 +140,5 @@ cython_debug/
 # macOS stuff
 .DS_Store
 
+# Indexes DBs
+indexes/
