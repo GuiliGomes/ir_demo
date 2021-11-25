@@ -15,9 +15,6 @@ Nearest Neighbor Search (NNS) is a fundamental building block in IR and also in 
 
 Most modern applications have massive data with high dimensionality. For those cases NNS becomes impractical and **Approximate Nearest Neighbor Search (ANNS or ANN)** takes its place.
 With the advances of Representation Learning and the production of dense vectors with semantically-rich document representations, ANN gained more relevance in high scale similarity search applications.
-
-With the advances of Representation Learning and the production of dense vectors with semantically-rich document representations, ANN gained more relevance in high scale similarity search applications.
-
 This repo containts a guide to some of the most important ANN paradigms and algorithms:
 
 **ANN Paradigms**:
